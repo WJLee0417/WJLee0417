@@ -18,7 +18,7 @@
   </a>
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WJLee0417&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WJLee0417&show_icons=true&theme=default&commits_year=2026" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee0417&layout=compact&theme=default" alt="Top Languages" />
 </div>
