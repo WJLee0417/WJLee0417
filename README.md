@@ -40,10 +40,10 @@
   <br><br>
 
   <a href="https://github.com/WJLee0417">
-    <img src="https://github-readme-stats.vercel.app/api?username=WJLee0417&show_icons=true&theme=pastel&commits_year=2026" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WJLee0417&show_icons=true&theme=buefy&commits_year=2026" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/WJLee0417">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee0417&layout=compact&theme=pastel" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee0417&layout=compact&theme=buefy" alt="Top Languages" />
   </a>
 </div>
 
